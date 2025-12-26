@@ -1,0 +1,7 @@
+{
+  "name": "On My Way",
+  "description": "A modern carpooling, auto, and taxi platform featuring free community rides and AI travel inspiration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
